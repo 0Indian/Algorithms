@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PriorityQueue", "PriorityQueue\PriorityQueue.csproj", "{4ADD49D0-4719-4974-B5B0-84C9D6BD286C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heaps", "Heaps\Heaps.csproj", "{20899760-B841-48CF-9CC4-7F6E54B8E47A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAPTest", "SAPTest\SAPTest.csproj", "{DB8CAC2C-2C4C-4011-97E2-D11AD04E4264}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRankProblems", "HackerRankProblems\HackerRankProblems.csproj", "{02436F5D-07F2-4942-B4EE-CA2474FAF6CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynamic Programming", "Dynamic Programming\Dynamic Programming.csproj", "{576F957C-0B75-4A8B-8FF7-D33E6135F6E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackTracking", "BackTracking\BackTracking.csproj", "{ECDB5EC0-6B1B-4CA3-8647-DCA6CAE2CF1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4ADD49D0-4719-4974-B5B0-84C9D6BD286C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ADD49D0-4719-4974-B5B0-84C9D6BD286C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ADD49D0-4719-4974-B5B0-84C9D6BD286C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ADD49D0-4719-4974-B5B0-84C9D6BD286C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20899760-B841-48CF-9CC4-7F6E54B8E47A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20899760-B841-48CF-9CC4-7F6E54B8E47A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20899760-B841-48CF-9CC4-7F6E54B8E47A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20899760-B841-48CF-9CC4-7F6E54B8E47A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB8CAC2C-2C4C-4011-97E2-D11AD04E4264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB8CAC2C-2C4C-4011-97E2-D11AD04E4264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB8CAC2C-2C4C-4011-97E2-D11AD04E4264}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB8CAC2C-2C4C-4011-97E2-D11AD04E4264}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02436F5D-07F2-4942-B4EE-CA2474FAF6CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02436F5D-07F2-4942-B4EE-CA2474FAF6CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02436F5D-07F2-4942-B4EE-CA2474FAF6CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02436F5D-07F2-4942-B4EE-CA2474FAF6CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{576F957C-0B75-4A8B-8FF7-D33E6135F6E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{576F957C-0B75-4A8B-8FF7-D33E6135F6E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{576F957C-0B75-4A8B-8FF7-D33E6135F6E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{576F957C-0B75-4A8B-8FF7-D33E6135F6E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECDB5EC0-6B1B-4CA3-8647-DCA6CAE2CF1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECDB5EC0-6B1B-4CA3-8647-DCA6CAE2CF1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECDB5EC0-6B1B-4CA3-8647-DCA6CAE2CF1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECDB5EC0-6B1B-4CA3-8647-DCA6CAE2CF1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {099A32CC-C3FB-4951-8AA4-E6DE2EB50174}
+	EndGlobalSection
+EndGlobal
